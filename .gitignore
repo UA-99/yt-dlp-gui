@@ -1,0 +1,54 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Optional — include if you do NOT want VS Code settings in git
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+build/
+coverage/
+
+# Platform build artifacts
+windows/runner/
+linux/build/
+macos/Build/
+web/.dart_tool/
+
+# Android Studio build artifacts
+android/app/debug
+android/app/profile
+android/app/release
+
+# Symbolication and obfuscation
+app.*.symbols
+app.*.map.json
+
+# Preserve yt-dlp assets
+!assets/yt-dlp/
+!assets/yt-dlp/win/
+!assets/yt-dlp/win/yt-dlp.exe
+!assets/yt-dlp/linux/
+!assets/yt-dlp/linux/yt-dlp
