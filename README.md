@@ -36,12 +36,6 @@ Requirements:
 - Flutter 3.9 or newer
 - Windows 10/11 or Linux with GTK support
 
-Setup:
-
-```bash
-flutter pub get
-flutter run
-
 ### yt-dlp
 Binaries are included for convenience and are licensed separately by their authors.  
 See `assets/yt-dlp/LICENSE.yt-dlp.txt` and https://github.com/yt-dlp/yt-dlp
