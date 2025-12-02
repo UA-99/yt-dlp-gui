@@ -1,4 +1,4 @@
-# YT Downloader GUI
+# A Simple YouTube Downloader GUI
 
 A lightweight cross-platform GUI for [yt-dlp](https://github.com/yt-dlp/yt-dlp), built with Flutter.  
 Paste a YouTube URL, choose a format and folder, then download with a single click.
