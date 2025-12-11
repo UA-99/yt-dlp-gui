@@ -5,19 +5,6 @@ Paste a YouTube URL, choose a format and folder, then download with a single cli
 
 ---
 
-## Features
-
-- Supports Windows and Linux
-- Audio presets: MP3 and AAC
-- Video presets: MP4 and MKV
-- Output folder selection
-- Terminal-style log with auto-scroll
-- Progress reporting when yt-dlp provides percentage updates
-- Bundled yt-dlp automatically checks for updates
-- Portable and does not require installation
-
----
-
 ## Usage
 
 1. Launch the application
@@ -31,6 +18,8 @@ A detailed log including progress details will appear throughout the download pr
 ---
 
 ## Running From Source
+
+I reccomend running from source as I cannot afford a CA signature, so using my premade binaries will trigger Windows Defender warnings. If you don't care, just bypass them.
 
 Requirements:
 - Flutter 3.9 or newer
