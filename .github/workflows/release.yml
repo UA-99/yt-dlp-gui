@@ -31,7 +31,7 @@ jobs:
           path: build/windows/x64/runner/Release/
 
   build-linux:
-    runs-on: ubuntu-latest
+    runs-on: fedora-latest
 
     steps:
       - name: Checkout

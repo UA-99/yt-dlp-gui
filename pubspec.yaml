@@ -1,6 +1,6 @@
 name: yt_dlp_gui
 description: A cross-platform gui for yt-dlp.
-version: 2.0
+version: 2.0.0+1
 homepage: https://github.com/UA-99/yt-dlp-gui
 
 
